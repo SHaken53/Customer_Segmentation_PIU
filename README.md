@@ -1,4 +1,4 @@
-yıldız teknik üniversitesi python ile istatistiksel uygulamalar dersi dönem proje ödevi 
+Yıldız Teknik Üniversitesi Python ile İstatistiksel Uygulamalar Dersi Dönem Proje Ödevi 
 
 katkıda bulunanlar:
 
